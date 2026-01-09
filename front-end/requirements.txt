@@ -1,0 +1,8 @@
+# Core dependencies for the recommendation chatbot
+gradio>=4.0.0
+typing-extensions>=4.0.0
+
+# Optional: For enhanced functionality
+# pandas>=1.5.0          # For data manipulation if needed
+# numpy>=1.21.0          # For numerical operations if needed
+# requests>=2.28.0       # For API calls if connecting to external services
